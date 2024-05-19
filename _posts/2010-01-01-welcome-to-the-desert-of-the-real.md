@@ -5,7 +5,6 @@ title: He visto más de 150 animes en 7 años
 subtitle: No me arrepiento para nada. 
 image: https://staticc.sportskeeda.com/editor/2022/01/d2d25-16424038889819-1920.jpg
 
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
 category: Anime
 tags:
   - Series

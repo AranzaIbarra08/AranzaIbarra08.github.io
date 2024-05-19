@@ -56,19 +56,19 @@ Para que se den una idea de lo diversa que es mi música puse 10 veces en aleato
 
 Ahora, parecerá una exageración o algunas personas diran "¿Cómo escuchas la música dependiendo el mood que traes?" NO LO HAGO. Si no me gusta la canción que estoy esuchando simplemente me la salto. Solo necesito ruido de fondo para trabajar. 
 
-Con el espíritu de probar un punto voy a describir las *5<strong>* playlist que hay en mi música:
+Con el espíritu de probar un punto voy a describir las *5* playlist que hay en mi música:
 
 ## BB´s 집
 Esta es una playlist que hice alguna vez que iba a pelearme con altos cargos en mi preparatoria y necesitaba todo el Women Rage que pudiera optener. Tiene un total de 34 canciones y la actualicé hace 3 semanas. 
 
 ## LoLoLoL
-Esta playlist tiene *unicamente<strong>* canciones del juego LOL (League of Legends). 
+Esta playlist tiene *unicamente* canciones del juego LOL (League of Legends). 
 Sus canciones son malditamente geniales. No me gustará jugarlo ya, pero las rolas son una joya. 
 
 Esta playlist consta de 6 canciones y ya nisiqueira aparece cuándo la actualicé. 
 
 ## Noisy Noise 
-Esta playlist la utilizo cuando solo necesito ruido de fondo, pero literal ruido de fondo. No letra, solo *pew pew pow pow pew <em>*. Esta playlist si está grande. Consta de 91 canciones y la actualicé cuando Jesucristo revivió. 
+Esta playlist la utilizo cuando solo necesito ruido de fondo, pero literal ruido de fondo. No letra, solo *pew pew pow pow pew*. Esta playlist si está grande. Consta de 91 canciones y la actualicé cuando Jesucristo revivió. 
 
 ## Party girls are pretty girls
 Ni recordaba que la tenía. Consta de 4 canciones y tdoas son buenísimas. Estoy segura que la última vez que la actualicé fue cuando vi la película de Saltburn. No sé qué pensar al respecto. 

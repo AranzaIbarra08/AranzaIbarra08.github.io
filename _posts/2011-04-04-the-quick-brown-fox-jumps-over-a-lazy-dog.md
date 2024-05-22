@@ -1,129 +1,86 @@
 ---
-date: 2018-10-09 12:26:40
+date: 2024-05-18 12:23:50
 layout: post
-title: The quick brown fox jumps over a lazy dog
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1506079212/jekflix-capa_vfhuzh.png
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1506079212/jekflix-capa_vfhuzh.png
-category: css
+title: Los 3 perros en mi vida 
+subtitle: Están bien cagados
+description: Hay 3 perros en mi casa, ninguno es mío. Todos son adoptados. 
+image: https://i.pinimg.com/originals/b9/3d/de/b93dde104329feb7db990156a2032848.jpg
+category: Life
 tags:
-  - css
-  - tips
-author: mranderson
+  - life
+  - dogs
+author: Sarix
+paginate: true
 ---
+<!--page-->
+Si mi yo el presente le dijera a mi yo de 12 años que hay *3 perros diferentes en casa* no me lo creería, pero es verdad. Les voy a contar la historia de cómo es que fue llegando cada uno y su personalidad. 
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+> Nota: Ningún perrito fue comprado por nosotros. Todos son rescatados. 
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+# Jessi la vaquerita 
+La primera perrita en llegar a la casa. Después de 16 años de un firme *NO* mis padres terminaron aceptando tener *UN SOLO PERRO (HOMBRE), PEQUEÑO Y ESPONJOSO*. Por ello, decicieron buscar en diversos lugares de adopción y terminaron adoptando un perrito pequeño café. 
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Solo que hubo unos cuantos problemas. En primer lugar, no era un perro macho, sino que era hembra y nos dimos cuenta 3 meses después cuando a todos se nos hacía raro que no levantara la patita para hacer pipi. En segundo lugar, no es para nada pequeña. Literalmente le llega a los hombros (cuando se estira) a mi hermana menor. En tercer lugar, no es esponjosa. Si bien tiene un cabello muy lindo, no tiene mucho y de hecho es de los tipos de perros a los que no les puedes cortar el cabello, solo deslanarlo. 
 
-## Inline HTML elements
+### Mención honorífica a los apodos que le hemos puesto
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+* Scooby Doo
+La primera vez que le cortamos el cabello (y no sabíamos que no debíamos) realmente parecía Scooby 
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thomas A. Anderson</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+![Scooby](https://wallpaperset.com/w/full/c/a/7/129962.jpg)
 
-Most of these elements are styled by browsers with few modifications on our part.
+* La perra de las 3 mentiras 
+Literal fueron 3 mentiras. No hay más explicación que la ya dada anteriormente.  
 
-# Heading 1
+# Lucky
+El único perrito hombre de la casa y también es el único flojo que prefiere no comer a tener que moverse de su sillón. Es el rey de la casa porque él si fue un perro macho, pequeño y pachoncito. 
 
-## Heading 2
+Si quieren tener idea de cómo es lucky simplemente piensen en la mezcla de un abuelito buena onda de 80 años y un perro mamón que siempre salen en los videos de telenovelas chinas. 
 
-### Heading 3
+![perroMamon](https://todoanimales.info/wp-content/uploads/2023/06/las-10-razas-de-perros-peludos-blancos-mas-adorables-y-populares.jpg)
 
-#### Heading 4
+### Mención honorífica a los apodos que le hemos puesto
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+* Panchito 
+ Es un viejito bonito que camina muy mamón. Si Lucky fuera un humano sería el tío buena onda sentado en una mesa de coca cola medio despintada (como la de los salones PF) y sillas que están a nada de rompense Y son lo más resistente del mundo. 
 
-## Code
+* Chino 
+Cuando está bañadito este señor se ve muy lindo, PERO cuando se va y se revuelva en la tierra se le enchina todo el cabello y termina con unos rizos tan definidos que Palmolive lo quiere contratar para publicidad. 
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+* "Pinche cabron"
+No come. Nos preocupa que no coma. Ya cuando tenemos 30 min viendo que namas se le queda viendo al plato se nos sale este apodo. Lo hemos llevado al veterinario, la conclusión es que le caga comer porque era de la calle y no confía (lleva 7 años con nosotros). 
 
-```js
-// Example can be run directly in your JavaScript console
+# Nina 
+Esta perrita es un terreneitor que aguanta de todas y de todos. Si fuera un humano sería ese amix que si se rifa un tiro por ti. Llegó a la casa porque unos primos de EUA vinieron a visitar, fueron al Zócalo y dijeron "ah sería una idea padrísima llevarnos un perro de aquí". 
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+Claramente no se la pudieron llevar a EUA y mi familia dijo "nosotros la cuidamos, ya hay dos qué es uno más" y a los meses nos dijeron "jaja, ya no la queremos" Y CLARAMENTE NO LA IBAMOS A DEJAR A SU SUERTE. Entonces la adoptamos. 
 
-// Call the function
-adder(2, 6);
-// > 8
-```
+Esta perrita se ha rifado tiros con: calcetas, peluches, ella misma, su sombra, con nosotros (ponerle la correa es jugarte la vida), su cama, el sillón de la sala, un control de una televisión. Es una perrita que no mide más que mi antebrazo y no pesa más que mi mochila, pero si me canta un tiro facilemnte pierdo. 
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+![nina](https://aperrados.com/wp-content/uploads/2017/01/west-highland-razas-de-perros-pequenos-blancos.jpg)
 
-## Lists
+Gracias a su personalidad inolvidable es a la que más le hemos puesto apodos. 
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+### Mención honorífica a lso apodos que le hemos puesto
 
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
+* Zapaturrina 
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+De chiquita entraba en los zapatos de todos en la casa y había veces que ahí se quedaba dormida. 
 
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
+* Enfermera del IMSS 
+Cuando le cortan el cabello, NO COMPRENDEMOS LA RAZÓN, pero siempre le dejan un copete en las cejas. Entonces parace que tiene un sombrero de enfermera del IMSS. 
 
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+* Lorax
+Cuando juega con la tierra se le hacen bigotes y se le peinan de tal manera que parece el Lorax. 
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
+* Dewey 
+Está orejona y es bien listilla. 
 
-## Images
+<!--page-->
 
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
 
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
 
-## Tables
 
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
 
 
 

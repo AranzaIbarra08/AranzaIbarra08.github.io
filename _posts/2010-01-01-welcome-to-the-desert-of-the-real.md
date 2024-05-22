@@ -1,5 +1,5 @@
 ---
-date: 2024-05-17 10:38:30
+date: 2024-05-21 10:38:30
 layout: post
 title: He visto más de 150 animes en 7 años
 subtitle: No me arrepiento para nada. 

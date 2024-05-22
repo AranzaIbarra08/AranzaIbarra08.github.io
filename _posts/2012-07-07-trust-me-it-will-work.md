@@ -1,5 +1,5 @@
 ---
-date: 2024-05-21 21:45:24
+date: 2024-05-16 21:45:24
 layout: post
 title: La Chona en coreano
 description: Solamente pare demostrar un punto en clases de coreano me puse a traducir "La Chona" al coreano. 

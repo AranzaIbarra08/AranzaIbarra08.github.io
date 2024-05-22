@@ -3,7 +3,7 @@ date: 2024-05-21 21:45:24
 layout: post
 title: La Chona en coreano
 description: Solamente pare demostrar un punto en clases de coreano me puse a traducir "La Chona" al coreano. 
-image: http://thumbor-prod-us-east-1.photo.aws.arc.pub/l7nb1GOcJMeINMx_F0e8bHm9k8A=/arc-anglerfish-arc2-prod-copesa/public/LTCE27RS7JBVPNUD7DU5R7DPL4.jpg 
+image: https://keytokorean.com/wp-content/uploads/2014/02/02.08.Hangulposter-AboutLetters.jpg
 
 category: idiomas
 tags:

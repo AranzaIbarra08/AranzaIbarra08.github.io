@@ -25,42 +25,62 @@ Le platiqué la idea a un amigo (él trabajó en Japón como 11 años y tenía q
 ### La chona 
 
 라죠나.
+
 휴명한 내 친구 얘길 해볼까요.
+
 쵸나라는 성을가진 내 친구예요.
+
 쵸나라는 성을가진 내 친구예요.
+
 그녀의 남편 이제다 포기 했어요.
+
 매일 매일 춤추 술사러 나가죠.
+
 매일 매일 춤추 술사러 나가죠.
 
 
 ### La traducción a letras romanas sería y al español 
 
 **라죠나**
+
 *Ra jiona*
+
 La chona
 
 **휴명한 내 친구 얘길 해볼까요.**
+
 *Jiu myeong jan ne chingu yekil jebulkeyo* 
+
 Contare la historia de una famosa persona
 
 **쵸나라는 성을가진 내 친구예요.**
+
 *chionaranun songul gajil* 
+
 Todos la conocen con el apodo de chona
 
 **쵸나라는 성을가진 내 친구예요.**
+
 *chionaranun songul gajil* 
+
 Todos la conocen con el apodo de chona
 
 **그녀의 남편 이제다 포기 했어요.**
+
 *kunyonu nampyeon ojida poki jessoyo* 
+
 Su marido dice ya no se que hacer con ella
 
 **매일 매일 춤추 술사러 나가죠.**
+
 *meil meil chumchu sulsaro nakacjyo*
+
 Diario va a los bailes y se compra una botella
 
 **매일 매일 춤추 술사러 나가죠.**
+
 *meil meil chumchu sulsaro nakacjyo* 
+
 Diario va a los bailes y se compra una botella
 
 

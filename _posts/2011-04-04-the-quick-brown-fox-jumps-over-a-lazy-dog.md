@@ -24,12 +24,12 @@ Solo que hubo unos cuantos problemas. En primer lugar, no era un perro macho, si
 
 ### Mención honorífica a los apodos que le hemos puesto
 
-* Scooby Doo
+* Scooby Doo: 
 La primera vez que le cortamos el cabello (y no sabíamos que no debíamos) realmente parecía Scooby 
 
 ![Scooby](https://wallpaperset.com/w/full/c/a/7/129962.jpg)
 
-* La perra de las 3 mentiras 
+* La perra de las 3 mentiras:  
 Literal fueron 3 mentiras. No hay más explicación que la ya dada anteriormente.  
 
 # Lucky
@@ -41,13 +41,13 @@ Si quieren tener idea de cómo es lucky simplemente piensen en la mezcla de un a
 
 ### Mención honorífica a los apodos que le hemos puesto
 
-* Panchito 
+* Panchito: 
  Es un viejito bonito que camina muy mamón. Si Lucky fuera un humano sería el tío buena onda sentado en una mesa de coca cola medio despintada (como la de los salones PF) y sillas que están a nada de rompense Y son lo más resistente del mundo. 
 
-* Chino 
+* Chino: 
 Cuando está bañadito este señor se ve muy lindo, PERO cuando se va y se revuelva en la tierra se le enchina todo el cabello y termina con unos rizos tan definidos que Palmolive lo quiere contratar para publicidad. 
 
-* "Pinche cabron"
+* "Pinche cabron" : 
 No come. Nos preocupa que no coma. Ya cuando tenemos 30 min viendo que namas se le queda viendo al plato se nos sale este apodo. Lo hemos llevado al veterinario, la conclusión es que le caga comer porque era de la calle y no confía (lleva 7 años con nosotros). 
 
 # Nina 
@@ -63,17 +63,16 @@ Gracias a su personalidad inolvidable es a la que más le hemos puesto apodos.
 
 ### Mención honorífica a lso apodos que le hemos puesto
 
-* Zapaturrina 
-
+* Zapaturrina : 
 De chiquita entraba en los zapatos de todos en la casa y había veces que ahí se quedaba dormida. 
 
-* Enfermera del IMSS 
+* Enfermera del IMSS: 
 Cuando le cortan el cabello, NO COMPRENDEMOS LA RAZÓN, pero siempre le dejan un copete en las cejas. Entonces parace que tiene un sombrero de enfermera del IMSS. 
 
-* Lorax
+* Lorax:
 Cuando juega con la tierra se le hacen bigotes y se le peinan de tal manera que parece el Lorax. 
 
-* Dewey 
+* Dewey: 
 Está orejona y es bien listilla. 
 
 <!--page-->

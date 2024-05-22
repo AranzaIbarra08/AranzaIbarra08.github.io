@@ -21,7 +21,7 @@ Aquí te va una lista de restaurantes y supermercados asiáticos a los cuáles p
 
 Hay una diferencia entre un supermercado como Walmart en el cuál te venden hasta shampoo de caballo y un supermercado de especias y alimentos. Los supermercados que nombraré aquí si bien venden un poco de utencilios, medicina asiática (los ice pack son una joya con este calor) y alguno que otro skin care, se enfocan más que nada en tener los ingredientes para la comida asiática típica. 
 
-* OK Market
+## OK Market
 
 Ubicado en Zona Rosa, para ser más precisa en **Hamburgo 97 Col Juárez** es un supermercado subterráneo en el cuál no solo vas a encontrar cajas de ramen instantáneo, Soju de sabores, mandus congelados, poro fresco, también encontraras Kimbab preparado ese mismo día.
 
@@ -47,7 +47,7 @@ Eso sí, tienes que llamar para apartarlo antes de las 2 pm porque se acaba.
 Les dejo su instagram por si a alguien le llama la atención: https://www.instagram.com/okmart.mx/?hl=es-la 
 
 
-* Super Uri  
+## Super Uri  
 
 Ubicado en la calle de **Londres 212 Col Juárez** un poco más alejado de Zona Rosa, pero se podría decir que todavía está dentro de ella. Es un supermercado que está bastante chico para todo lo que tiene. Hay desde helado coreanos como Melona hasta Makgeoli. En ese super te das cuenta que es auténtico coreano por dos cosas: 
 
@@ -74,7 +74,7 @@ Es una bebida alcohólica que es arroz fermentado. Es muy normal beberla (a mi n
 
 Les dejo su página por si les interesa: https://www.maangchi.com/shopping/super-uri 
 
-* Super Mikasa 
+## Super Mikasa 
 Este es un supermercado japones que se ubica en **San Luis Potosí 173 Col. Roma Norte** y si bien es un lugar con mucha dificultad de estacionamiento no hay nada que temer, ellos mismos tienen estacionamiento y sino al lado del super hay un estacionamiento que si te sellan el boleto en el super es completamente gratis la primera hora. ¿Lo mejor? no te estacionas tú, te estacionan el coche. 
 
 Pero no vamos ahí por el estacionamiento (que si estás por la zona te conviene), vamos ahí por la comida. Si bien no preparo mucha comida japones (porque en todos los super que les he dicho venden ingredientes para la comida) sí la como y lo que tiene Super Mikasa es que a partir de ls 12 pm tienen comida japonesa para que compres para llevar. 
@@ -106,7 +106,7 @@ Te dejo su instagram por si te interesa: https://www.instagram.com/supermikasa/?
 Tal vez a ustedes no le sinteresa tanto el cocinar o comprar comida ya hecha y eso está bien. Por ello, también les traigo unos retaurancitos para nada rancios que son buenos. Nota: la comida asiática en general entra en el rango *$$$*. Pero lo vale como una experiencia. 
 
 
-* Goginara 
+## Goginara 
 
 Restaurante coreano que está en Zona Rosa. Este restaurante Korean BBQ lo cual se traduce a un montón de carne y bebida. Literalmente el nombre se traduce a "País de la carne" (고기 (Gogi) es carne y 나라 (Nara) es país). 
 
@@ -129,7 +129,7 @@ Bibim significla mezclar y bap es arroz (siempre que veas una comida que termina
 ![bibimbap](https://www.thespruceeats.com/thmb/4Dp-1foTVieumGmhq5f8NJyeESw=/3714x2476/filters:fill(auto,1)/classic-korean-bibimbap-recipe-2118765-hero-01-091c0e0f8c20426d8f70747955efa61d.jpg)
 
 
-* Pho King 
+## Pho King 
 
 Yo sé que el nombre está cagado, pero el Pho es un plato de fideo típico de Vietnam. Es muy rico, el caldo es un poco "grasoso", está delicioso. Viene tanto en cada plato que puedes pedir órdenes de fideos extra y te alcanza perfecto el caldo. Mi favorito es el A3, es un simple caldo con fideos y res. 
 
@@ -139,7 +139,7 @@ De este restaurantes hay varias sucursales. Hay una en condesa y una por el áng
 
 Lo que sí recomiendo son las bebidas, sobre todo hay una bebida de Guanabana que te quita todo el calor. Delicioso. La comida si suena rara no mentiré y de hecho el menú está con letras y números (Platillo A3, Bebida F2, etc.) justamente para que le sea fácil a los mexicanos pedir, pero así sabes que esta bueno. 
 
-* Harimgak 
+## Harimgak 
 
 Es restaurante coreano te ofrece platillos muy grandes a un precio bastante accesible. Por ejemplo, un plato jajjangmyeong (que son fideos con pasta de frijol) a mi hermana le llega a durar 3 comidas. Lo hemos pedido a domicilio (que solo te lo llevan si vives cerca) y los fideos apenas y entran dentro de un bote de litro. 
 #### jajjangmyoeng
@@ -148,7 +148,7 @@ Es restaurante coreano te ofrece platillos muy grandes a un precio bastante acce
 
 Con cada comida te dan acompañamientos como rábano amarillo o kimchi (verdura fermentada, la verdad si no le tienes un gusto ni lo pruebes). Venden mandus (que son las gyozas, pero coreanas), venden udon de mariscos que lleva desde pulpo hasta almeja. 
 
-### Rábano amarillo 
+#### Rábano amarillo 
 ![rábano](https://www.wandercooks.com/wp-content/uploads/2020/11/takuan-yellow-pickled-radish-5.jpg)
 
 Solamente he concido una persona que se ha acabado todo lo de su plato en una sentada y mi compadre estaba haciendo volumen en el gimnasio. Un plus es que está muy cerca de Super Uri por si después quieren ir por un helado y también tienen muchos paquetes diferentes para compartir. 

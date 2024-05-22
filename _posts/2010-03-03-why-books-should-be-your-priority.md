@@ -13,10 +13,10 @@ author: Sarix
 paginate: true
 ---
 
-No hay forma en la que yo me ponga a revisr las **1858 <strong>** canciones que tengo solamente porque quiero sentir las *vibes <em>* de algo. Para ser precisa tengo un total de xx canciones. 
+No hay forma en la que yo me ponga a revisr las **1858** canciones que tengo solamente porque quiero sentir las *vibes* de algo. Para ser precisa tengo un total de xx canciones. 
 Todas ellas van desde Hijo de la Luna de Mecano hasta Papaya! de Baby Metal. 
 
-Podré decir **NO<strong>** a muchas cosas sin remordimiento de conciencia, pero no voy a decir nunca no a escuchar una canción. Nunca se sabe de dónde puede venir la siguiente canción con la me voy a obsecionar o la canción que me hará recordar un momento preciso. Por ello, me niego a no escuchar alguna canción que alguien me ponga. 
+Podré decir **NO** a muchas cosas sin remordimiento de conciencia, pero no voy a decir nunca no a escuchar una canción. Nunca se sabe de dónde puede venir la siguiente canción con la me voy a obsecionar o la canción que me hará recordar un momento preciso. Por ello, me niego a no escuchar alguna canción que alguien me ponga. 
 
 Gracias a esto he coleccionado canciones como si fueran Pokemon y he llegado al punto en el que ponerme a revisar todas mis canciones para poder hacer una playlist es verdaderamente un fastidio. Incluso hay veces que lo he intentado y se me va de qué era el tema de lo que quería hacer mi playlist. 
 <!--page-->
@@ -75,7 +75,7 @@ Ni recordaba que la tenía. Consta de 4 canciones y tdoas son buenísimas. Estoy
 
 ## Mis pistas de Shazam
 
-**Self explenatory<strong>**
+**Self explenatory**
 
 
 <!--page-->

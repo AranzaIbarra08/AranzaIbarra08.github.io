@@ -1,136 +1,67 @@
 ---
-date: 2018-04-21 12:26:40
+date: 2024-05-21 21:45:24
 layout: post
-title: Candy, candies, candy!
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822137/theme11_vei7iw.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822137/theme11_vei7iw.jpg
-category: diet
+title: La Chona en coreano
+description: Solamente pare demostrar un punto en clases de coreano me puse a traducir "La Chona" al coreano. 
+image: http://thumbor-prod-us-east-1.photo.aws.arc.pub/l7nb1GOcJMeINMx_F0e8bHm9k8A=/arc-anglerfish-arc2-prod-copesa/public/LTCE27RS7JBVPNUD7DU5R7DPL4.jpg 
+
+category: idiomas
 tags:
-  - food
-  - tips
-author: mranderson
+  - coreano
+  - canciones
+author: Sarix
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+No es secreto que me gusta la música coreana, por ello, cuando cuando estaba en preparatoria iba a la par a una academia asiática para poder aprender un poco más. No solo por la música, también proque se veía mejor en currículum y me iba a ir al KAIST (Korean Advanced Institute of Science and Tecnology). 
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+Entonces alguna vez estaba en clase (llegué a Intermedio Nivel 6, pasé la primera aprovación de Coreano) y estabamos traduciendo canciones para poder sacar *slangs* coreanos y ponerlos en contexto. 
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Al terminar con la canción titulada *Any Song* de ZICO que habla sobre desde la perspectiva de una persona deprimida que se está regañando a sí mismo diciendose "pon cualquier canción y finje que estás bien" y habla sobre cómo está harto de sentirse así (*hint para que la escuchen, es muy buena rola y video una vez sabes de qué habla*). 
 
-## Inline HTML elements
+Me puse a escuchar música para ver si podía hacer lo mismo al solor escuchar las canciones (escuchar coreano me era estremadamente fidícil) y no pude en ese entonces, pero me surgió la duda si yo podía traducir alguna canción al coreano. 
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+Le platiqué la idea a un amigo (él trabajó en Japón como 11 años y tenía que irse a Corea, entonces se metió a aprender coreano) y nos pusimos a traducirla. Yo al coreano y él al japones. Por lo tanto, les presento un fragmento (que tenía escrito en mi computadora) de la Chona en coreano. 
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thomas A. Anderson</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+### La chona 
 
-Most of these elements are styled by browsers with few modifications on our part.
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+라죠나.
+휴명한 내 친구 얘길 해볼까요.
+쵸나라는 성을가진 내 친구예요.
+쵸나라는 성을가진 내 친구예요.
+그녀의 남편 이제다 포기 했어요.
+매일 매일 춤추 술사러 나가죠.
+매일 매일 춤추 술사러 나가죠.
 
 
+### La traducción a letras romanas sería y al español 
 
+**라죠나**
+*Ra jiona*
+La chona
 
+**휴명한 내 친구 얘길 해볼까요.**
+*Jiu myeong jan ne chingu yekil jebulkeyo* 
+Contare la historia de una famosa persona
 
+**쵸나라는 성을가진 내 친구예요.**
+*chionaranun songul gajil* 
+Todos la conocen con el apodo de chona
 
+**쵸나라는 성을가진 내 친구예요.**
+*chionaranun songul gajil* 
+Todos la conocen con el apodo de chona
 
+**그녀의 남편 이제다 포기 했어요.**
+*kunyonu nampyeon ojida poki jessoyo* 
+Su marido dice ya no se que hacer con ella
+
+**매일 매일 춤추 술사러 나가죠.**
+*meil meil chumchu sulsaro nakacjyo*
+Diario va a los bailes y se compra una botella
+
+**매일 매일 춤추 술사러 나가죠.**
+*meil meil chumchu sulsaro nakacjyo* 
+Diario va a los bailes y se compra una botella
 
 
 
